@@ -9,4 +9,4 @@
 
 ## Create a pipeline in AWS
 
-#### In this step, I created an AWS CodePipeline to automate the continuous integration process for my simple sample application. AWS CodePipeline, which in this case does the work of Jenkins, will orchestrate the flow of changes from my GitHub repository that was initially created, to the deployment of my application.
+#### In this step, I created an AWS CodePipeline to automate the continuous integration process for my simple sample application. AWS CodePipeline, which in this case does the work with Jenkins, will orchestrate the flow of changes from my GitHub repository that was initially created, to the deployment of my application.
